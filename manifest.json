@@ -1,10 +1,9 @@
 {
-  "version": "0.1.0",
-  "id": "YourPreferredAlias.AnIDForTheMod",
-  "name": "Incredible Mod",
-  "description": "A truly amazing mod",
-  "authors": [
-    "Your Preferred Alias"
-  ],
-  "frameworkVersion": "2.1.5"
+	"version": "0.1.0",
+	"id": "Atampy26.PausedAiming",
+	"name": "Paused aiming",
+	"description": "Stops time when you're aiming a weapon.",
+	"authors": ["Atampy26"],
+	"frameworkVersion": "2.0.0",
+	"contentFolders": ["content"]
 }
