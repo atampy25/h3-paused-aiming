@@ -1,9 +1,14 @@
 {
-	"version": "0.1.0",
-	"id": "Atampy26.PausedAiming",
-	"name": "Paused aiming",
-	"description": "Stops time when you're aiming a weapon.",
-	"authors": ["Atampy26"],
-	"frameworkVersion": "2.0.0",
-	"contentFolders": ["content"]
+  "version": "1.0.0",
+  "id": "Atampy26.PausedAiming",
+  "name": "Paused aiming",
+  "description": "Stops time when you're aiming a weapon.",
+  "authors": [
+    "Atampy26"
+  ],
+  "frameworkVersion": "2.0.0",
+  "contentFolders": [
+    "content"
+  ],
+  "updateCheck": "https://github.com/atampy25/h3-paused-aiming/releases/latest/download/updates.json"
 }
