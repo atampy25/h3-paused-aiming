@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "id": "Atampy26.PausedAiming",
-  "name": "Paused aiming",
+  "name": "Paused Aiming",
   "description": "Stops time when you're aiming a weapon.",
   "authors": [
     "Atampy26"
